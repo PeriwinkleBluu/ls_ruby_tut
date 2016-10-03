@@ -3,4 +3,4 @@ def multiply(a,b)
 end
 
 n =
-puts "Testing 3 * 4 = #{multiply 3, 4}"
+puts "Testing 3 * 4 = #{multiply(3, 4)}"
