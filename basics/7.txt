@@ -1,0 +1,4 @@
+There is a ) where the program expects a } in the main
+section of irb
+
+aka probably a misstype
