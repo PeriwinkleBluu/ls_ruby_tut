@@ -1,0 +1,6 @@
+1. 8 => mistake index takes the value you want and
+returns the first occurences index
+
+2. error
+
+3. 8 
