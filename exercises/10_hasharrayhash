@@ -1,0 +1,5 @@
+Can hash values be arrays? Can you have an array of hashes? (give examples)
+Yes
+
+h = {[1,2,3]=>'hi'}
+h = [{a: 3}, {b:5}]
